@@ -1,2 +1,7 @@
 export * from "../dto/create-order.dto"
 export * from "../dto/update-order.dto"
+export * from "../dto/order-item.dto"
+export * from "../dto/order-pagination.dto"
+export * from "../dto/status.dto"
+export * from "../dto/change-order-status.dto"
+export * from "../enum/order.enum"
